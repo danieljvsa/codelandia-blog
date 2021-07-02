@@ -134,6 +134,19 @@ body{
 }
 
 
+@media (min-width: 769px) and (max-width: 932px){
+    .logo{
+        margin: 0 25px !important;
+    }
+    .search{
+        margin: 0 25px;
+    }
+
+    main{
+        margin: 0 25px;
+    }
+}
+
 @media (max-width: 768px){
     .logo{
         margin: 0 25px !important;
