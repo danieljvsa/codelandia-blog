@@ -36,7 +36,7 @@ $ cd codelandia-challenge-1
 
 ## 💻 Projeto
 
-O 3º desafio feito pela Codelândia, destina-se a dar o próximo passo em relação há contrução de um layout responsivo e dinâmico 
+O 1º desafio feito pela Codelândia, destina-se a dar o próximo passo em relação há contrução de um layout responsivo e dinâmico 
 
 Este é um projeto desenvolvido durante os dias 18 a 23 de Julho de 2021.
 
